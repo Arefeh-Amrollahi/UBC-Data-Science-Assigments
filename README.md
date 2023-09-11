@@ -1,1 +1,1 @@
-# UBC-Data_Sience_Assigments
+# UBC-Data_Science_Assigments
